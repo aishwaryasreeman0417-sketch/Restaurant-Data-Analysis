@@ -99,21 +99,21 @@ The dataset contains information such as:
 ```
 Restaurant-Data-Analysis/
 │
-├── 📓 Cognifyz_Data_Analysis0001.ipynb
+├── 📓 Cognifyz_Data_Analysis.ipynb
 ├── 🐍 Cognifyz_Data_Analysis.py
 ├── 📄 README.md
 ├── 📄 requirements.txt
 │
 └── 📷 Screenshots/
-    ├── Graph 1.png
-    ├── Graph 2.png
-    ├── Graph 3.png
-    ├── Graph 4.png
-    ├── L2 Graph 1.png
-    ├── L2 Graph 2.png
-    ├── L2 Graph 3.png
-    ├── L2 Graph 5.png
-    ├── L2 Graph 6.png
+    ├── Most_Common_Cuisines.png
+    ├── City_Analysis.png
+    ├── Price_Range_Distribution.png
+    ├── Online_Delivery.png
+    ├── Restaurant_Ratings.png
+    ├── Common_Cuisine_Combination.png
+    ├── Highest_Cuisine_Combination.png
+    ├── Restaurant_Chains.png
+    ├── Restaurant_Chains_Rating.png
     └── Geographic_map.png
 ```
 
