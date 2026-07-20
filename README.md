@@ -97,14 +97,25 @@ The dataset contains information such as:
 # 📁 Project Files
 
 ```
-Restaurant-Data-Analysis
+Restaurant-Data-Analysis/
 │
-├── Cognifyz_Data_Analysis.ipynb
-├── Cognifyz_Data_Analysis.py
-├── Dataset.csv
-├── README.md
-├── requirements.txt
-└── Screenshots/
+├── 📓 Cognifyz_Data_Analysis0001.ipynb
+├── 🐍 Cognifyz_Data_Analysis.py
+├── 📄 README.md
+├── 📄 requirements.txt
+├── 📊 Dataset (1).csv
+│
+└── 📷 Screenshots/
+    ├── Graph 1.png
+    ├── Graph 2.png
+    ├── Graph 3.png
+    ├── Graph 4.png
+    ├── L2 Graph 1.png
+    ├── L2 Graph 2.png
+    ├── L2 Graph 3.png
+    ├── L2 Graph 5.png
+    ├── L2 Graph 6.png
+    └── Geographic_map.png
 ```
 
 ---
