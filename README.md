@@ -103,7 +103,6 @@ Restaurant-Data-Analysis/
 ├── 🐍 Cognifyz_Data_Analysis.py
 ├── 📄 README.md
 ├── 📄 requirements.txt
-├── 📊 Dataset (1).csv
 │
 └── 📷 Screenshots/
     ├── Graph 1.png
@@ -146,7 +145,7 @@ jupyter notebook
 
 📊 Data Analytics | Data Science | Machine Learning Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/aishwaryasreeman0417-sketch
 
 LinkedIn: https://www.linkedin.com/in/aishwarya-sreeman-2a3867347/
 
